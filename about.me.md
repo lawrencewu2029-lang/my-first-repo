@@ -5,7 +5,7 @@ A: My favorite hobby is to read books and video games.
 A: My for you page gave me this video about a game and it looked interesting so i played it
 
 # How often do you spend time on it?
-A: everyday as i like to grind the new content slowkly but surely
+A: everyday as i like to grind the new content slowly but surely
 
 # What do i enjoy the most about it?
 A: it gives me something to do and i like dopamine rushes
